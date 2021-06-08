@@ -1,8 +1,7 @@
 # module5_python_practice_SMG
 
-## more python code from class.
 
-### This module uses the graphics library and needs to be install to utilize the following code
+### More python code from class. This module uses the graphics library and needs to be install to utilize the following code
 
 
 Task 1: counts # of occurances with in a string of charaters.
